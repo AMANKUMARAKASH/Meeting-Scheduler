@@ -27,19 +27,19 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 This project is a Meeting Scheduler App built with Next.js, Firebase, and React, integrating Kind and React-Email for seamless functionality. It allows users to effortlessly create profiles, schedule meetings, and send confirmation emails.
 
 ## Features:
--User-friendly interface
--Profile creation
--Meeting scheduling
--Integration with popular platforms
--Automated confirmation emails
+- User-friendly interface
+- Profile creation
+- Meeting scheduling
+- Integration with popular platforms
+- Automated confirmation emails
 
 ## Technologies Used:
--Next.js
--Firebase
--React
--Kind
--React-Email
--NodeJs
+- Next.js
+- Firebase
+- React
+- Kind
+- React-Email
+- NodeJs
 
 ## Deploy on Vercel
 
